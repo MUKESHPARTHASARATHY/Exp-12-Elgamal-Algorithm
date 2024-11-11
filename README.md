@@ -3,8 +3,8 @@
 To encrypt and decrypt a message using the ElGamal encryption algorithm.
 
 ```
-Name: R VIGNESH
-Register No: 212222230172
+Name : MUKESH P
+Register No: 212222240068
 ```
 ## Aim
 To securely exchange a message between two users using the ElGamal encryption and decryption algorithm, implemented in C.
@@ -89,8 +89,8 @@ int main() {
 }
 ```
 ## Output:
-![Screenshot 2024-11-11 085755](https://github.com/user-attachments/assets/3a22f80b-dac3-42f2-9a2d-64e3ccf5740c)
 
+![cr12op](https://github.com/user-attachments/assets/b40b7149-e298-44a9-b15f-d967d64538d4)
 
 ## Result:
 The program for Elgamal encryption and decryption was exceuted successfully. Alice and Bob exchanged an encrypted message and verified that the decrypted message matched the original message.
